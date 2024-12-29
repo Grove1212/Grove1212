@@ -2,7 +2,7 @@
 
 ## Welcome <div>
 
-I'm Chewon Kim who is interested in Android development.<div>
+I'm Chewon Kim who is interested in Backend development.<div>
 I am majoring in Computer Convergence Software at Korea University Sejong Campus.
 	ㅤ
 </div>
